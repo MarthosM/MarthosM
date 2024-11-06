@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarthosM
-- 👀 I’m interested in blockchain, programming 
+- 👀 I’m interested in blockchain, programming
+- Criando sistema de atendimento com inteligencia artificial
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python games
 - - 📫 How to reach me, email to marthos@terra.com.br
 
 <!---
