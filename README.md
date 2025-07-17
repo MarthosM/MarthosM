@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain, programming
 - Criando sistema de atendimento com inteligencia artificial
 - 🌱 I’m currently learning Python
-- - 📫 How to reach me, email to marthos@terra.com.br
+- - 📫 How to reach me, email to marthosfreitas@gmail.com
 
 <!---
 MarthosM/MarthosM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
